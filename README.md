@@ -18,8 +18,8 @@ Training environment was set up in a Gcloud Compute Engine with following sepcs:
 ### Pretrained Model
 <img src="results_1/img_4844.jpg" width=320 height=240 /><img src="data/oriented_results/002.jpg" width=320 height=240 />
 <img src="results_1/img_5319.jpg" width=320 height=240 /><img src="data/oriented_results/004.jpg" width=320 height=240 />
-<img src="results_1/img_5975.jpg" width=320 height=480 /><img src="data/oriented_results/010.png" width=320 height=320 />
-<img src="results_1/img_6936.jpg" width=320 height=480 /><img src="data/oriented_results/010.png" width=320 height=320 />
+<img src="results_1/img_5975.jpg" width=320 height=480 /><img src="data/oriented_results/010.png" width=320 height=240 />
+<img src="results_1/img_6936.jpg" width=320 height=480 /><img src="data/oriented_results/010.png" width=320 height=240 />
 ### Manually trained Model
 Model is trained using dataset dowloaed from following link(https://drive.google.com/drive/folders/0B_WmJoEtfQhDRl82b1dJTjB2ZGc), and hyperperameters are set according to this file(text.yml)
 
